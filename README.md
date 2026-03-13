@@ -1,5 +1,4 @@
 # News-Article-Processing-Pipeline
-# 📰 News Article Processing Pipeline
 
 A Python-based news article processing pipeline built as part of CS 2100 at Northeastern University Oakland. The project demonstrates object-oriented programming, data processing, and software engineering best practices including type annotations, unit testing, and clean API design.
 
@@ -67,7 +66,7 @@ mypy article.py search_news.py news_processor.py
 
 ---
 
-## ✅ Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 - Object-oriented design with clearly separated responsibilities
 - Type annotations throughout for readability and static analysis
@@ -76,7 +75,7 @@ mypy article.py search_news.py news_processor.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Maahira Rubaiya**
 BS Computer Science & Business Administration, Northeastern University Oakland
