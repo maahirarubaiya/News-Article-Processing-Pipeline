@@ -4,7 +4,7 @@ A Python-based news article processing pipeline built as part of CS 2100 at Nort
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This pipeline processes and searches news articles using three core components:
 
@@ -14,7 +14,7 @@ This pipeline processes and searches news articles using three core components:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3
 - **Libraries:** `unittest`, `unittest.mock`
@@ -23,7 +23,7 @@ This pipeline processes and searches news articles using three core components:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sp26-hw4/
@@ -36,7 +36,7 @@ sp26-hw4/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 **1. Clone the repo:**
 ```bash
